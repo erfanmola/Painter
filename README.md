@@ -1,0 +1,1 @@
+Feel free to contribute, this script is far from being a complete library (:

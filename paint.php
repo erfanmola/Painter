@@ -7,7 +7,10 @@ $height = $imagesize['1'];
 
 $total_pixels = (int) $width * (int) $height;
 
+// For JPG :
 $image = imagecreatefromjpeg($filename);
+// For PNG :
+// $image = imagecreatefromjpeg($filename);
 
 $i = 0;
 $j = 0;
